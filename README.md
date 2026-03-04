@@ -58,6 +58,10 @@ int main(){
 }
 ``
 
+```py
+Prueba de uso de la Terminal(py)
+print("Hola mundo")
+```
 
 
 # HolaAgus (Título de Orden 1)
