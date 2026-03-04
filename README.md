@@ -56,7 +56,7 @@ using namespace std;
 int main(){
   cout << "Hola mundo";
 }
-``
+```
 
 ```py
 Prueba de uso de la Terminal(py)
